@@ -336,7 +336,7 @@ a.meanmenu-reveal {
 
 .product-list-item .product-description .product-title {
     font-weight: 400;
-    text-transform: uppercase;
+    text-transform: normal;
     margin-top: 10px;
     margin-bottom: 10px;
 }
@@ -601,7 +601,7 @@ img.block-header {
     font-size: 22px;
     letter-spacing: 2px;
     margin: 20px 0;
-    text-transform: uppercase;
+    text-transform: normal;
     text-align: center;
 }
 
@@ -1486,6 +1486,7 @@ img.block-header {
     display: block;
     font-size: 30px;
     line-height: 31px
+    text-align: center;
 }
 
 #product .prod-action .installments-price {
